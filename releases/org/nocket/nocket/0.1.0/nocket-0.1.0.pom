@@ -13,6 +13,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>org.nocket</groupId>
+      <artifactId>gengui</artifactId>
+      <version>1.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
