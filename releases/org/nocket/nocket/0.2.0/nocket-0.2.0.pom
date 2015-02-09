@@ -68,7 +68,7 @@
     </dependency>
     <dependency>
       <groupId>org.apache.wicket</groupId>
-      <artifactId>wicket-devutils</artifactId>
+      <artifactId>wicket-auth-roles</artifactId>
       <version>6.9.+</version>
       <scope>compile</scope>
     </dependency>
@@ -76,6 +76,12 @@
       <groupId>ecs</groupId>
       <artifactId>ecs</artifactId>
       <version>1.4.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.wicket</groupId>
+      <artifactId>wicket-devutils</artifactId>
+      <version>6.9.+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
