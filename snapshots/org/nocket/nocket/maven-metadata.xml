@@ -2,13 +2,13 @@
 <metadata>
   <groupId>org.nocket</groupId>
   <artifactId>nocket</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>0.1.0-SNAPSHOT</version>
       <version>0.1.2-SNAPSHOT</version>
       <version>0.2.1-SNAPSHOT</version>
+      <version>0.3.6-volto-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150203111710</lastUpdated>
+    <lastUpdated>20151006145604</lastUpdated>
   </versioning>
 </metadata>
